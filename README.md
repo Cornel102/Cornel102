@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**Cornel102/Cornel102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Cornelius Nkwocha
 
-Here are some ideas to get you started:
+## Junior Backend Developer | Node.js | TypeScript | Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent Information Technology graduate from FUTO passionate about building backend applications and REST APIs.
+
+### 🚀 About Me
+
+- Backend-focused developer
+- Currently learning Full-Stack Web Development
+- Building projects with Node.js and TypeScript
+- Interested in scalable applications
+
+### 🛠 Tech Stack
+
+#### Backend
+- Node.js
+- Express.js
+- TypeScript
+- JavaScript
+
+#### Frontend
+- HTML5
+- CSS3
+
+#### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+### 📂 Projects
+
+- GPA Calculator API
+- JWT Authentication API (Coming Soon)
+- Task Manager API (Coming Soon)
+- LeetCode JavaScript Solutions
+
+### 📫 Contact
+
+Email: Corneliusnkwocha5@gmail.com
+
+GitHub: https://github.com/cornel102
+
+Location: Lagos, Nigeria

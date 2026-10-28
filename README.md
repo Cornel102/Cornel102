@@ -1,9 +1,9 @@
 
 # Hi 👋, I'm Cornelius Nkwocha
 
-## Junior Backend Developer | Node.js | TypeScript | Express.js
+## Junior Full-Stack Developer | Node.js | TypeScript | Express.js | React
 
-Recent Information Technology graduate from FUTO passionate about building backend applications and REST APIs.
+Recent Information Technology graduate from FUTO passionate about building Full-Stack applications and REST APIs.
 
 ### 🚀 About Me
 
@@ -23,12 +23,14 @@ Recent Information Technology graduate from FUTO passionate about building backe
 #### Frontend
 - HTML5
 - CSS3
+- React
 
 #### Tools
 - Git
 - GitHub
 - Postman
 - VS Code
+- MongoDB 
 
 ### 📂 Projects
 
